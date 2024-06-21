@@ -1,0 +1,14 @@
+{
+  "name": "modules-project-27",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "csk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
